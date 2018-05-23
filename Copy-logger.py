@@ -1,3 +1,8 @@
+""" python script maintaning clipboard content acccesed via Copy Paste commonas 
+    Author : Eamme Vinay Kumar
+    JNTU Anantapuram
+"""
+
 import os
 import pyperclip as ppp
 import time
